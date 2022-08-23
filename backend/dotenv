@@ -1,0 +1,2 @@
+PORT=4000
+DATABASE=mongodb+srv://admin:admin12@cluster0.bi1f3lr.mongodb.net/SigninSignup?retryWrites=true&w=majority
